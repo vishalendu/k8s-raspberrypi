@@ -83,6 +83,7 @@ ci1                     Running           10.126.42.170    Ubuntu 20.04 LTS
 ci2                     Running           10.126.42.171    Ubuntu 20.04 LTS
 ~~~
 >***Note***: The 10.x.x.x IPs are local to your RPi so you will not be able to connect to them directly from your laptop.
+>
 >You have to either 
 > * login to your Rpi and then ssh to the ***"ci1"/"ci2"*** machine. 
 > * Or you can configure your RPi to be a jump host to connect to the Containers directly. You can find more about jump host setup here: https://www.tecmint.com/access-linux-server-using-a-jump-host/
