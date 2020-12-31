@@ -231,8 +231,4 @@ You can validate that the node has been added to the cluster by:
 ---
 ## YAY!! Hope everything turned out well
 
-[[params.social]]
-  icon = "linkedin"
-  icon_pack = "fa"
-  link = "https://www.linkedin.com/in/vishalendupandey/"
-
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vishalendupandey/)
